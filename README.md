@@ -2,6 +2,10 @@
 
 A modern, interactive e-commerce product store built to showcase core React state management, conditional rendering, array manipulation, and responsive UI design with Tailwind CSS v4.
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-luxecart--mu.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://luxecart-mu.vercel.app/)
+
+> 🔗 **Live Demo**: [https://luxecart-mu.vercel.app/](https://luxecart-mu.vercel.app/)
+
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?logo=tailwindcss&logoColor=white)
